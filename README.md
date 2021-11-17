@@ -2,7 +2,7 @@
 ## Elisa Coello Valverde
 
 
-###Ejercicios a resolver
+######Ejercicios a resolver
 
 **1. ¿Qué variable representa la lista ABIERTA?**
 **2. ¿Qué variable representa la función g?**
